@@ -1,0 +1,19 @@
+if has("syntax")  " syntax가 있는 파일이라면
+    syntax on     " syntax highlighting 기능을 켠다
+endif
+set nu            " 왼쪽에 줄 번호 표시
+set mouse=a       " 마우스 사용 옵션 (a는 auto)
+set autoindent    " 자동 들여쓰기
+set cursorline    " 커서가 있는 라인을 밑줄로 강조
+set ignorecase    " 검색 기능 사용 시 대소문자 무시
+set ruler         " 오른쪽 하단에 현재 커서의 위치 표시
+set title         " 현재 열린 파일 이름을 창 타이틀에 표시
+set hlsearch      " 모든 검색결과 하이라이트
+set ignorecase    " 대소문자 무시하고 검색
+set incsearch     " 타이핑할 때마다 검색 결과 표시
+set noswapfile    " 스왑파일 사용안함
+set ts=4 "tab 4   " tab크기 4칸
+set cindent       " c 소스에 대해 자동정렬 기능 설정 
+set expandtab     " 탭을 모두 공백문자로 설정
+set shiftwidth=4  " 자동정렬시 indenting 되는 문자 갯수
+nmap <F6> :NERDTreeToggle<CR>
