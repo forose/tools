@@ -4,16 +4,18 @@
 <p>폰트변경은</p>
 <ul>
 <li>Mac Os <code>vim ~/.gvimrc</code>
-<code><pre>
+<br>
+<pre>
 set macligatures
 set guifont=Fira\ Code:h12
 set encoding=utf-8
-</pre></code>
+</pre>
 </li>
 <li>Window <code>vim ~/.vimrc</code>
-<code><pre>
+<br>
+<pre>
 set guifont=Fira\ Code:h12
 set encoding=utf-8
-</pre></code>
+</pre>
 </li>
 
