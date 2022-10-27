@@ -5,6 +5,14 @@
  <p>type <code>open setting</code></p>
 
 <p>settings.json</p>
+<p>
+<code>
+{
+    "editor.fontFamily": "FiraCode-Retina",
+    "editor.fontLigatures": true,
+}
+</code>
+</p>
 
 <ul>
 <li>meterial Theme</li>
@@ -13,6 +21,8 @@
 <li>Prettier</li>
 <li>git lens</li>
 </ul>
+
+
 
 <p> shell command dowmload</p>
 
