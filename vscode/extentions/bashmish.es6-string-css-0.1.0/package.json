@@ -1,0 +1,58 @@
+{
+	"name": "es6-string-css",
+	"displayName": "es6-string-css",
+	"description": "Highlight CSS language in ES6 template literals",
+	"version": "0.1.0",
+	"publisher": "bashmish",
+	"icon": "docs/logo.png",
+	"engines": {
+		"vscode": "^1.19.0"
+	},
+	"galleryBanner": {
+		"color": "#dedede",
+		"theme": "light"
+	},
+	"repository": {
+		"url": "https://github.com/bashmish/es6-string-css"
+	},
+	"bugs": {
+		"url": "https://github.com/bashmish/es6-string-css/issues"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"keywords": [
+		"javascript",
+		"es6",
+		"css",
+		"lit-css",
+		"lit-html"
+	],
+	"contributes": {
+		"grammars": [
+			{
+				"injectTo": [
+					"source.js",
+					"source.ts",
+					"source.jsx",
+					"source.tsx"
+				],
+				"scopeName": "inline.es6-css",
+				"path": "./syntaxes/es6-inline-css.json",
+				"embeddedLanguages": {
+					"meta.embedded.block.css": "css"
+				}
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e77b45cd-d790-4bd7-ac84-23599dec3f28",
+		"publisherId": "c1ba11d5-87ec-40e9-8453-4b6f1d14d58e",
+		"publisherDisplayName": "Mikhail Bashkirov",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1697087858388,
+		"preRelease": false
+	}
+}
