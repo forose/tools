@@ -1,0 +1,1 @@
+import{s as t}from"./pinia-d2c8f655.js";import{r as c}from"./checkbox-group-d76ce3a9.js";var i=c();const s=t(i),n=/^(\$|_|vm)/i;function f(e,r){for(const o of Object.keys(e))o.match(n)||r[o]===void 0&&(r[o]=null);e.$patch(r)}function m(e){return JSON.parse(JSON.stringify(e,(r,o)=>r.match(n)?null:o))}export{s as _,m as c,f as r};
