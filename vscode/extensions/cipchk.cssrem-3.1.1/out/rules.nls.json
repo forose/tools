@@ -1,0 +1,13 @@
+[
+	"Convert `{0}px` to `{1}` (the current benchmark font-size is `{2}px`, please refer to [Configuration Document](https://github.com/cipchk/vscode-cssrem#configuration) modify",
+	"Converted from `{0}rem` according to the benchmark font-size is `{1}px`",
+	"Convert {0}rem to {1} (the current benchmark font-size is {2}px, please refer to [Configuration Document](https://github.com/cipchk/vscode-cssrem#configuration) modify",
+	"Converted from `{0}px` according to the benchmark font-size is `{1}px`, please refer to [Configuration Document](https://github.com/cipchk/vscode-cssrem#configuration) modify",
+	"Convert `{0}px` to `{1}` (current device width `{2}px`, base font size is `{3}px`)",
+	"Convert `{0}px` to `{1}vw` (current device width `{2}px`, base font size is `{3}px`)",
+	"Convert `{0}vw` to `{1}` (current device width `{2}px`, base font size is `{3}px`)",
+	"Converted from `{0}px` (current device width `{1}px`, base font size is `{2}px`)",
+	"**WXSS miniprogram style** Convert `{0}px` to `{1}` (the current device width is `{2}px` and screen width is `{3}px`, please refer to [Configuration Document](https://github.com/cipchk/vscode-cssrem#configuration) modify)",
+	"**WXSS miniprogram style** Convert `{0}rpx` to `{1}` (The current device width is `{2}px` and screen width is `{3}px`, please refer to [Configuration Document](https://github.com/cipchk/vscode-cssrem#configuration) modify)",
+	"**WXSS miniprogram style** Converted from `{0}px` (The current device width is `{1}px` and screen width is `{2}px`)"
+]

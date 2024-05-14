@@ -1,0 +1,13 @@
+[
+	"将 `{0}px` 转换为 `{1}` (当前基准字号为 `{2}px`, 参考[配置文档](https://github.com/cipchk/vscode-cssrem#configuration)修改",
+	"由 `{0}rem` 根据基准字号 `{1}px` 转换而来",
+	"将 `{0}rem` 转换为 `{1}` (当前基准字号为 `{2}px`, 参考[配置文档](https://github.com/cipchk/vscode-cssrem#configuration)修改",
+	"由 `{0}px` 根据基准字号 `{1}px` 转换而来",
+	"将 `{0}px` 转换为 `{1}` (当前设备宽度 `{2}px`, 基准字号为 `{3}px`)",
+	"由 `{0}px` 转换为 `{1}vm` (当前设备宽度 `{2}px`, 基准字号为 `{3}px`)",
+	"将 `{0}vw` 转换为 `{1}` (当前设备宽度 `{2}px`, 基准字号为 `{3}px`)",
+	"由 `{0}px` 转换而来(当前设备宽度 `{1}px`, 基准字号为 `{2}px`)",
+	"**WXSS小程序样式** 将 `{0}px` 转换为 `{1}` (当前设备宽度 `{2}px`、基准屏幕 `{3}px`, 参考[配置文档](https://github.com/cipchk/vscode-cssrem#configuration)修改",
+	"**WXSS小程序样式** 将 `{0}rpx` 转换为 `{1}` (当前设备宽度 `{2}px`、基准屏幕 `{3}px`, 参考[配置文档](https://github.com/cipchk/vscode-cssrem#configuration)修改",
+	"**WXSS小程序样式** 由 `{0}px` 转换而来(当前设备宽度 `{1}px`、基准屏幕 `{2}px`）"
+]

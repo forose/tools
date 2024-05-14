@@ -1,0 +1,48 @@
+{
+	"name": "emotionsnippets",
+	"displayName": "Emotion Snippets",
+	"description": "Emotion snippets for React-based apps",
+	"publisher": "iJS",
+	"version": "1.1.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ijsto/emotionsnippets"
+	},
+	"icon": "images/logo01.png",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "28f1c459-059a-4b35-b6e5-8d94aae12115",
+		"publisherId": "0557c4be-d7ab-40a4-bec3-09c5e54dfce4",
+		"publisherDisplayName": "iJS.to",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1714448560085,
+		"preRelease": false
+	}
+}
